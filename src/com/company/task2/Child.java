@@ -14,5 +14,4 @@ public class Child extends Parent {
 
     private void method4() {
     }
-
 }
